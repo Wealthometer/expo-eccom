@@ -1,6 +1,6 @@
 <h1 align="center">✨ Full-Stack E-Commerce App (Mobile + Admin + API) ✨</h1>
 
-![Demo App](/admin/public/screenshot-for-readme.png)
+<!-- ![Demo App](/admin/public/screenshot-for-readme.png) -->
 
 ✨ **Highlights:**
 
